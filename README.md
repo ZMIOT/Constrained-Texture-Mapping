@@ -8,15 +8,13 @@ IDE：Visual Studio 2012
 Library：OpenGL、OpenCV(version 2.4.7)
 
 How To Use：
-After open the project, the result of 3D model is on the left, and stickers and corresponding UV map of the model is on the 
-left. 
+After open the project, the result of 3D model is on the left, and stickers and corresponding UV map of the model is on the left. 
 Dragging the feature point(red point) can change UV map.
 The bottoms on the right can loading the .obj file and sticker(1024*1024 .png file) or opening camera to take picture.
 The appearance can be switched by clicking or uncliking the list.
 
 ******** Important ********
-Every .obj file need to be accompanied with a .txt file which defines the feature points. This .txt file name is identical 
-to .obj file name with an additional "+" character. (i.e. example.obj and example+.txt).
+Every .obj file need to be accompanied with a .txt file which defines the feature points. This .txt file name is identical to .obj file name with an additional "+" character. (i.e. example.obj and example+.txt).
 The .txt file define which points are feature points and the relation between feature poins and mesh.
 
 
