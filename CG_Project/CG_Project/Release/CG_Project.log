@@ -1,0 +1,33 @@
+﻿已經開始建置於 2015/6/28 下午 08:59:55。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Henry\Desktop\CG_Project6\CG_Project\CG_Project.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CG_ProjectDlg.cpp
+         CG_ProjectDlg.cpp
+     1>CG_ProjectDlg.cpp(469): warning C4018: '<' : signed/unsigned 不相符
+     1>CG_ProjectDlg.cpp(528): warning C4018: '<' : signed/unsigned 不相符
+     1>CG_ProjectDlg.cpp(542): warning C4018: '<' : signed/unsigned 不相符
+     1>CG_ProjectDlg.cpp(556): warning C4018: '<' : signed/unsigned 不相符
+     1>CG_ProjectDlg.cpp(786): warning C4018: '<' : signed/unsigned 不相符
+     1>CG_ProjectDlg.cpp(804): warning C4018: '<' : signed/unsigned 不相符
+     1>CG_ProjectDlg.cpp(809): warning C4018: '<' : signed/unsigned 不相符
+     1>CG_ProjectDlg.cpp(820): warning C4018: '<' : signed/unsigned 不相符
+     1>CG_ProjectDlg.cpp(831): warning C4018: '<' : signed/unsigned 不相符
+     1>CG_ProjectDlg.cpp(876): warning C4800: 'int' : 強制將 bool 的值定為 'true' 或 'false' (效能警告)
+     1>CG_ProjectDlg.cpp(884): warning C4800: 'int' : 強制將 bool 的值定為 'true' 或 'false' (效能警告)
+     1>CG_ProjectDlg.cpp(892): warning C4800: 'int' : 強制將 bool 的值定為 'true' 或 'false' (效能警告)
+     1>CG_ProjectDlg.cpp(900): warning C4800: 'int' : 強制將 bool 的值定為 'true' 或 'false' (效能警告)
+     1>CG_ProjectDlg.cpp(908): warning C4800: 'int' : 強制將 bool 的值定為 'true' 或 'false' (效能警告)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Henry\Desktop\CG_Project6\Release\CG_Project.exe" /INCREMENTAL:NO /NOLOGO opencv_core247.lib opencv_imgproc247.lib opencv_highgui247.lib opencv_ml247.lib opencv_video247.lib opencv_features2d247.lib opencv_calib3d247.lib opencv_objdetect247.lib opencv_contrib247.lib opencv_legacy247.lib opencv_flann247.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Henry\Desktop\CG_Project6\Release\CG_Project.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Henry\Desktop\CG_Project6\Release\CG_Project.lib" /MACHINE:X86 /SAFESEH Release\CG_Project.res
+         Release\CG_Project.obj
+         Release\CG_ProjectDlg.obj
+         Release\lodepng.obj
+         Release\stdafx.obj
+         正在產生程式碼
+         已完成程式碼產生
+         CG_Project.vcxproj -> C:\Users\Henry\Desktop\CG_Project6\Release\CG_Project.exe
+     1>專案 "C:\Users\Henry\Desktop\CG_Project6\CG_Project\CG_Project.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:12.74

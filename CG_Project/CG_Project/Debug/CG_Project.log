@@ -1,0 +1,19 @@
+﻿已經開始建置於 2015/5/26 下午 09:44:08。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Henry\Desktop\CG_Project3\CG_Project\CG_Project.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CG_ProjectDlg.cpp
+         CG_ProjectDlg.cpp
+     1>c:\users\henry\desktop\cg_project3\cg_project\cg_projectdlg.cpp(329): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\henry\desktop\cg_project3\cg_project\cg_projectdlg.cpp(392): warning C4018: '<' : signed/unsigned 不相符
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Henry\Desktop\CG_Project3\Debug\CG_Project.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Henry\Desktop\CG_Project3\Debug\CG_Project.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Henry\Desktop\CG_Project3\Debug\CG_Project.lib" /MACHINE:X86 Debug\CG_Project.res
+         Debug\CG_Project.obj
+         Debug\CG_ProjectDlg.obj
+         Debug\lodepng.obj
+         Debug\stdafx.obj
+         CG_Project.vcxproj -> C:\Users\Henry\Desktop\CG_Project3\Debug\CG_Project.exe
+     1>專案 "C:\Users\Henry\Desktop\CG_Project3\CG_Project\CG_Project.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.53
